@@ -1,0 +1,29 @@
+{
+  "name": "@cocacola-lover/div_slider",
+  "version": "1.0.1",
+  "description": "Html slider class",
+  "type": "module",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocacola-lover/div_slider.git"
+  },
+  "keywords": [
+    "JS",
+    "HTML",
+    "Slider"
+  ],
+  "author": "cocacola-lover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocacola-lover/div_slider/issues"
+  },
+  "homepage": "https://github.com/cocacola-lover/div_slider#readme",
+  "dependencies": {
+    "@cocacola-lover/windowed-spinning-array": "^1.1.0"
+  }
+}
